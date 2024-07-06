@@ -1088,6 +1088,101 @@
                     "op": "replace",
                     "path": "/Entities/Entity_[36063180102739]/Components/TransformComponent/Transform Data/Rotate/2",
                     "value": -0.000022199999875738285
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[36050295200851]/Components/ScriptEditorComponent",
+                    "value": {
+                        "$type": "ScriptEditorComponent",
+                        "Id": 16948921736862502820,
+                        "ScriptComponent": {
+                            "Id": 0,
+                            "ContextID": 0,
+                            "Properties": {
+                                "Name": "Properties",
+                                "Properties": [
+                                    {
+                                        "$type": "AzFramework::ScriptPropertyString",
+                                        "id": 635879819,
+                                        "name": "InputEvent",
+                                        "value": "ControlSwitch"
+                                    },
+                                    {
+                                        "$type": "AzFramework::ScriptPropertyNumber",
+                                        "id": 3090271313,
+                                        "name": "LightIntensity",
+                                        "value": 499.0
+                                    },
+                                    {
+                                        "$type": "AzFramework::ScriptPropertyNumber",
+                                        "id": 1136262716,
+                                        "name": "Step",
+                                        "value": 0.01
+                                    }
+                                ],
+                                "Groups": [
+                                    {
+                                        "Name": "Entities",
+                                        "Properties": [
+                                            {
+                                                "$type": "AzFramework::ScriptPropertyGenericClass",
+                                                "id": 3430218957,
+                                                "name": "LampBulbGreen",
+                                                "value": {
+                                                    "$type": "EntityId",
+                                                    "value": "../Instance_[42638775032915]/Entity_[42651659934803]"
+                                                }
+                                            },
+                                            {
+                                                "$type": "AzFramework::ScriptPropertyGenericClass",
+                                                "id": 2166083545,
+                                                "name": "LampBulbRed",
+                                                "value": {
+                                                    "$type": "EntityId",
+                                                    "value": "../Instance_[44159193455699]/Entity_[44184963259475]"
+                                                }
+                                            },
+                                            {
+                                                "$type": "AzFramework::ScriptPropertyGenericClass",
+                                                "id": 2286514457,
+                                                "name": "SwitchGreen",
+                                                "value": {
+                                                    "$type": "EntityId",
+                                                    "value": "Entity_[36063180102739]"
+                                                }
+                                            },
+                                            {
+                                                "$type": "AzFramework::ScriptPropertyGenericClass",
+                                                "id": 571433274,
+                                                "name": "SwitchRed",
+                                                "value": {
+                                                    "$type": "EntityId",
+                                                    "value": "Entity_[36033115331667]"
+                                                }
+                                            }
+                                        ],
+                                        "Groups": []
+                                    }
+                                ]
+                            },
+                            "Script": {
+                                "assetId": {
+                                    "guid": "{F4FC4123-4535-59A8-B567-3376394BD1B0}",
+                                    "subId": 1
+                                },
+                                "loadBehavior": "PreLoad",
+                                "assetHint": "assets/switchcontrol.luac"
+                            }
+                        },
+                        "ScriptAsset": {
+                            "assetId": {
+                                "guid": "{F4FC4123-4535-59A8-B567-3376394BD1B0}",
+                                "subId": 1
+                            },
+                            "loadBehavior": "QueueLoad",
+                            "assetHint": "assets/switchcontrol.luac"
+                        }
+                    }
                 }
             ]
         },
@@ -1126,7 +1221,7 @@
                         "$type": "EditorDebugDrawTextComponent",
                         "Id": 7903390834775235846,
                         "Element": {
-                            "Text": "Press G",
+                            "Text": "Press G to open\\nPress H to close",
                             "Color": [
                                 1.0,
                                 1.0,
@@ -1253,34 +1348,6 @@
                 },
                 {
                     "op": "add",
-                    "path": "/Entities/Entity_[44197848161363]/Components/EditorDebugDrawTextComponent",
-                    "value": {
-                        "$type": "EditorDebugDrawTextComponent",
-                        "Id": 18329357559303173408,
-                        "Element": {
-                            "Text": "Press R",
-                            "Color": [
-                                1.0,
-                                1.0,
-                                1.0,
-                                1.0
-                            ],
-                            "DrawMode": 1,
-                            "WorldLocation": [
-                                0.0,
-                                0.0,
-                                0.0
-                            ],
-                            "TargetEntity": ""
-                        },
-                        "Settings": {
-                            "VisibleInGame": true,
-                            "VisibleInEditor": true
-                        }
-                    }
-                },
-                {
-                    "op": "add",
                     "path": "/Entities/Entity_[44184963259475]/Components/AZ::Render::EditorAreaLightComponent",
                     "value": {
                         "$type": "AZ::Render::EditorAreaLightComponent",
@@ -1351,6 +1418,34 @@
                             }
                         },
                         "ComponentMode": {}
+                    }
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[44197848161363]/Components/EditorDebugDrawTextComponent",
+                    "value": {
+                        "$type": "EditorDebugDrawTextComponent",
+                        "Id": 18329357559303173408,
+                        "Element": {
+                            "Text": "Press R to open\\nPress T to close",
+                            "Color": [
+                                1.0,
+                                1.0,
+                                1.0,
+                                1.0
+                            ],
+                            "DrawMode": 1,
+                            "WorldLocation": [
+                                0.0,
+                                0.0,
+                                0.0
+                            ],
+                            "TargetEntity": ""
+                        },
+                        "Settings": {
+                            "VisibleInGame": true,
+                            "VisibleInEditor": true
+                        }
                     }
                 }
             ]

@@ -21,8 +21,9 @@
     "restricted": "MySimulationProject",
     "gem_names": [
         "ROS2",
-        "WarehouseSample",
-        "RosRobotSample"
+        "RemoteTools",
+        "RosRobotSample",
+        "WarehouseSample"
     ],
     "engine_version": "2.2.2"
 }
