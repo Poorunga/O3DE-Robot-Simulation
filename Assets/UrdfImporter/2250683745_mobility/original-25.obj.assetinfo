@@ -1,0 +1,59 @@
+{
+    "values": [
+        {
+            "$type": "{41DCBEAB-203C-4A05-96FA-98E1D8A96FA1} ImportGroup",
+            "ImportSettings": {
+                "OptimizeScene": true,
+                "OptimizeMeshes": true
+            }
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "original-25",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "Box10-FACE1/Box10-FACE/mesh24/mesh24-geometry#mesh24-geometry",
+                    "Box10-FACE1/Box10-FACE/mesh24/mesh24-geometry#mesh24-geometry.Box10-FACE1/Box10-FACE/mesh24/mesh24-geometry#mesh24-geometry_1",
+                    "Box10-FACE1/Box10-FACE/mesh24/mesh24-geometry#mesh24-geometry.Box10-FACE1/Box10-FACE/mesh24/mesh24-geometry#mesh24-geometry_1.material_0_0",
+                    "Box10-FACE1/Box10-FACE/mesh24/mesh24-geometry#mesh24-geometry.Box10-FACE1/Box10-FACE/mesh24/mesh24-geometry#mesh24-geometry_1.material_1_0",
+                    "Box10-FACE1/Box10-FACE/mesh24/mesh24-geometry#mesh24-geometry.Box10-FACE1/Box10-FACE/mesh24/mesh24-geometry#mesh24-geometry_2",
+                    "Box10-FACE1/Box10-FACE/mesh24/mesh24-geometry#mesh24-geometry.Box10-FACE1/Box10-FACE/mesh24/mesh24-geometry#mesh24-geometry_2.material_0_0",
+                    "Box10-FACE1/Box10-FACE/mesh24/mesh24-geometry#mesh24-geometry.Box10-FACE1/Box10-FACE/mesh24/mesh24-geometry#mesh24-geometry_2.material_1_0"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "UVsRule"
+                    }
+                ]
+            },
+            "id": "{62605D25-4919-44D6-BF37-0ABA934CE497}"
+        },
+        {
+            "$type": "{5B03C8E6-8CEE-4DA0-A7FA-CD88689DD45B} MeshGroup",
+            "id": "{2F85B5E3-19F9-49D4-8939-17961E72CC61}",
+            "name": "original-25",
+            "NodeSelectionList": {
+                "selectedNodes": [
+                    "Box10-FACE1/Box10-FACE/mesh24/mesh24-geometry#mesh24-geometry",
+                    "Box10-FACE1/Box10-FACE/mesh24/mesh24-geometry#mesh24-geometry.Box10-FACE1/Box10-FACE/mesh24/mesh24-geometry#mesh24-geometry_1",
+                    "Box10-FACE1/Box10-FACE/mesh24/mesh24-geometry#mesh24-geometry.Box10-FACE1/Box10-FACE/mesh24/mesh24-geometry#mesh24-geometry_1.material_0_0",
+                    "Box10-FACE1/Box10-FACE/mesh24/mesh24-geometry#mesh24-geometry.Box10-FACE1/Box10-FACE/mesh24/mesh24-geometry#mesh24-geometry_1.material_1_0",
+                    "Box10-FACE1/Box10-FACE/mesh24/mesh24-geometry#mesh24-geometry.Box10-FACE1/Box10-FACE/mesh24/mesh24-geometry#mesh24-geometry_2",
+                    "Box10-FACE1/Box10-FACE/mesh24/mesh24-geometry#mesh24-geometry.Box10-FACE1/Box10-FACE/mesh24/mesh24-geometry#mesh24-geometry_2.material_0_0",
+                    "Box10-FACE1/Box10-FACE/mesh24/mesh24-geometry#mesh24-geometry.Box10-FACE1/Box10-FACE/mesh24/mesh24-geometry#mesh24-geometry_2.material_1_0"
+                ]
+            },
+            "export method": 1,
+            "DecomposeMeshes": true,
+            "PhysicsMaterialSlots": {
+                "Slots": [
+                    {
+                        "Name": "material_0_0"
+                    }
+                ]
+            }
+        }
+    ]
+}

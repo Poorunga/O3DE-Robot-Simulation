@@ -1,0 +1,55 @@
+{
+    "values": [
+        {
+            "$type": "{41DCBEAB-203C-4A05-96FA-98E1D8A96FA1} ImportGroup",
+            "ImportSettings": {
+                "OptimizeScene": true,
+                "OptimizeMeshes": true
+            }
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "original-56",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "berenice-head_pivot/mesh45/mesh45-geometry#mesh45-geometry",
+                    "berenice-head_pivot/mesh45/mesh45-geometry#mesh45-geometry.berenice-head_pivot/mesh45/mesh45-geometry#mesh45-geometry_1",
+                    "berenice-head_pivot/mesh45/mesh45-geometry#mesh45-geometry.berenice-head_pivot/mesh45/mesh45-geometry#mesh45-geometry_1.material_0_0",
+                    "berenice-head_pivot/mesh45/mesh45-geometry#mesh45-geometry.berenice-head_pivot/mesh45/mesh45-geometry#mesh45-geometry_2",
+                    "berenice-head_pivot/mesh45/mesh45-geometry#mesh45-geometry.berenice-head_pivot/mesh45/mesh45-geometry#mesh45-geometry_2.material_0_0"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "UVsRule"
+                    }
+                ]
+            },
+            "id": "{760AD328-6FA3-41FE-8B36-AC38B92B6614}"
+        },
+        {
+            "$type": "{5B03C8E6-8CEE-4DA0-A7FA-CD88689DD45B} MeshGroup",
+            "id": "{CC512F24-EA0D-4EC6-A288-3C22CB0497E6}",
+            "name": "original-56",
+            "NodeSelectionList": {
+                "selectedNodes": [
+                    "berenice-head_pivot/mesh45/mesh45-geometry#mesh45-geometry",
+                    "berenice-head_pivot/mesh45/mesh45-geometry#mesh45-geometry.berenice-head_pivot/mesh45/mesh45-geometry#mesh45-geometry_1",
+                    "berenice-head_pivot/mesh45/mesh45-geometry#mesh45-geometry.berenice-head_pivot/mesh45/mesh45-geometry#mesh45-geometry_1.material_0_0",
+                    "berenice-head_pivot/mesh45/mesh45-geometry#mesh45-geometry.berenice-head_pivot/mesh45/mesh45-geometry#mesh45-geometry_2",
+                    "berenice-head_pivot/mesh45/mesh45-geometry#mesh45-geometry.berenice-head_pivot/mesh45/mesh45-geometry#mesh45-geometry_2.material_0_0"
+                ]
+            },
+            "export method": 1,
+            "DecomposeMeshes": true,
+            "PhysicsMaterialSlots": {
+                "Slots": [
+                    {
+                        "Name": "material_0_0"
+                    }
+                ]
+            }
+        }
+    ]
+}

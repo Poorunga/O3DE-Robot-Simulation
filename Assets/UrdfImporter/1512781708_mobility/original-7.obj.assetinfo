@@ -1,0 +1,59 @@
+{
+    "values": [
+        {
+            "$type": "{41DCBEAB-203C-4A05-96FA-98E1D8A96FA1} ImportGroup",
+            "ImportSettings": {
+                "OptimizeScene": true,
+                "OptimizeMeshes": true
+            }
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "original-7",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "mesh8/mesh8-geometry#mesh8-geometry",
+                    "mesh8/mesh8-geometry#mesh8-geometry.mesh8/mesh8-geometry#mesh8-geometry_1",
+                    "mesh8/mesh8-geometry#mesh8-geometry.mesh8/mesh8-geometry#mesh8-geometry_1.material_0_0",
+                    "mesh8/mesh8-geometry#mesh8-geometry.mesh8/mesh8-geometry#mesh8-geometry_1.material_1_0",
+                    "mesh8/mesh8-geometry#mesh8-geometry.mesh8/mesh8-geometry#mesh8-geometry_2",
+                    "mesh8/mesh8-geometry#mesh8-geometry.mesh8/mesh8-geometry#mesh8-geometry_2.material_0_0",
+                    "mesh8/mesh8-geometry#mesh8-geometry.mesh8/mesh8-geometry#mesh8-geometry_2.material_1_0"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "UVsRule"
+                    }
+                ]
+            },
+            "id": "{12AD14EF-D4A4-4AF7-AFFE-3511FE45210A}"
+        },
+        {
+            "$type": "{5B03C8E6-8CEE-4DA0-A7FA-CD88689DD45B} MeshGroup",
+            "id": "{AD31751F-8348-418B-8BCF-E37D33FA1BB6}",
+            "name": "original-7",
+            "NodeSelectionList": {
+                "selectedNodes": [
+                    "mesh8/mesh8-geometry#mesh8-geometry",
+                    "mesh8/mesh8-geometry#mesh8-geometry.mesh8/mesh8-geometry#mesh8-geometry_1",
+                    "mesh8/mesh8-geometry#mesh8-geometry.mesh8/mesh8-geometry#mesh8-geometry_1.material_0_0",
+                    "mesh8/mesh8-geometry#mesh8-geometry.mesh8/mesh8-geometry#mesh8-geometry_1.material_1_0",
+                    "mesh8/mesh8-geometry#mesh8-geometry.mesh8/mesh8-geometry#mesh8-geometry_2",
+                    "mesh8/mesh8-geometry#mesh8-geometry.mesh8/mesh8-geometry#mesh8-geometry_2.material_0_0",
+                    "mesh8/mesh8-geometry#mesh8-geometry.mesh8/mesh8-geometry#mesh8-geometry_2.material_1_0"
+                ]
+            },
+            "export method": 1,
+            "DecomposeMeshes": true,
+            "PhysicsMaterialSlots": {
+                "Slots": [
+                    {
+                        "Name": "material_0_0"
+                    }
+                ]
+            }
+        }
+    ]
+}

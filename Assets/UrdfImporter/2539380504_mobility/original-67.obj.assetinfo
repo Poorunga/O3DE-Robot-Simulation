@@ -1,0 +1,59 @@
+{
+    "values": [
+        {
+            "$type": "{41DCBEAB-203C-4A05-96FA-98E1D8A96FA1} ImportGroup",
+            "ImportSettings": {
+                "OptimizeScene": true,
+                "OptimizeMeshes": true
+            }
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "original-67",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "berenice-shade1/berenice-shade/mesh75/mesh75-geometry#mesh75-geometry",
+                    "berenice-shade1/berenice-shade/mesh75/mesh75-geometry#mesh75-geometry.berenice-shade1/berenice-shade/mesh75/mesh75-geometry#mesh75-geometry_1",
+                    "berenice-shade1/berenice-shade/mesh75/mesh75-geometry#mesh75-geometry.berenice-shade1/berenice-shade/mesh75/mesh75-geometry#mesh75-geometry_1.UV0",
+                    "berenice-shade1/berenice-shade/mesh75/mesh75-geometry#mesh75-geometry.berenice-shade1/berenice-shade/mesh75/mesh75-geometry#mesh75-geometry_1.material_0_0",
+                    "berenice-shade1/berenice-shade/mesh75/mesh75-geometry#mesh75-geometry.berenice-shade1/berenice-shade/mesh75/mesh75-geometry#mesh75-geometry_2",
+                    "berenice-shade1/berenice-shade/mesh75/mesh75-geometry#mesh75-geometry.berenice-shade1/berenice-shade/mesh75/mesh75-geometry#mesh75-geometry_2.UV0",
+                    "berenice-shade1/berenice-shade/mesh75/mesh75-geometry#mesh75-geometry.berenice-shade1/berenice-shade/mesh75/mesh75-geometry#mesh75-geometry_2.material_0_0"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "UVsRule"
+                    }
+                ]
+            },
+            "id": "{209C8A40-787F-4E5D-941F-F0084EDEF01F}"
+        },
+        {
+            "$type": "{5B03C8E6-8CEE-4DA0-A7FA-CD88689DD45B} MeshGroup",
+            "id": "{7E6B7FE5-203E-4E0A-8BDD-60AE33870C76}",
+            "name": "original-67",
+            "NodeSelectionList": {
+                "selectedNodes": [
+                    "berenice-shade1/berenice-shade/mesh75/mesh75-geometry#mesh75-geometry",
+                    "berenice-shade1/berenice-shade/mesh75/mesh75-geometry#mesh75-geometry.berenice-shade1/berenice-shade/mesh75/mesh75-geometry#mesh75-geometry_1",
+                    "berenice-shade1/berenice-shade/mesh75/mesh75-geometry#mesh75-geometry.berenice-shade1/berenice-shade/mesh75/mesh75-geometry#mesh75-geometry_1.UV0",
+                    "berenice-shade1/berenice-shade/mesh75/mesh75-geometry#mesh75-geometry.berenice-shade1/berenice-shade/mesh75/mesh75-geometry#mesh75-geometry_1.material_0_0",
+                    "berenice-shade1/berenice-shade/mesh75/mesh75-geometry#mesh75-geometry.berenice-shade1/berenice-shade/mesh75/mesh75-geometry#mesh75-geometry_2",
+                    "berenice-shade1/berenice-shade/mesh75/mesh75-geometry#mesh75-geometry.berenice-shade1/berenice-shade/mesh75/mesh75-geometry#mesh75-geometry_2.UV0",
+                    "berenice-shade1/berenice-shade/mesh75/mesh75-geometry#mesh75-geometry.berenice-shade1/berenice-shade/mesh75/mesh75-geometry#mesh75-geometry_2.material_0_0"
+                ]
+            },
+            "export method": 1,
+            "DecomposeMeshes": true,
+            "PhysicsMaterialSlots": {
+                "Slots": [
+                    {
+                        "Name": "material_0_0"
+                    }
+                ]
+            }
+        }
+    ]
+}

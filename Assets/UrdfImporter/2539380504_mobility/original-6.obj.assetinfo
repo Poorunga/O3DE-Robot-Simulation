@@ -1,0 +1,55 @@
+{
+    "values": [
+        {
+            "$type": "{41DCBEAB-203C-4A05-96FA-98E1D8A96FA1} ImportGroup",
+            "ImportSettings": {
+                "OptimizeScene": true,
+                "OptimizeMeshes": true
+            }
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "original-6",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "mesh4/mesh4-geometry#mesh4-geometry",
+                    "mesh4/mesh4-geometry#mesh4-geometry.mesh4/mesh4-geometry#mesh4-geometry_1",
+                    "mesh4/mesh4-geometry#mesh4-geometry.mesh4/mesh4-geometry#mesh4-geometry_1.material_0_0",
+                    "mesh4/mesh4-geometry#mesh4-geometry.mesh4/mesh4-geometry#mesh4-geometry_2",
+                    "mesh4/mesh4-geometry#mesh4-geometry.mesh4/mesh4-geometry#mesh4-geometry_2.material_0_0"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "UVsRule"
+                    }
+                ]
+            },
+            "id": "{BB3EEB77-83CD-49F9-9F46-C258D952CB64}"
+        },
+        {
+            "$type": "{5B03C8E6-8CEE-4DA0-A7FA-CD88689DD45B} MeshGroup",
+            "id": "{27FFA9F6-A6C0-4C49-9EB3-497320F85D63}",
+            "name": "original-6",
+            "NodeSelectionList": {
+                "selectedNodes": [
+                    "mesh4/mesh4-geometry#mesh4-geometry",
+                    "mesh4/mesh4-geometry#mesh4-geometry.mesh4/mesh4-geometry#mesh4-geometry_1",
+                    "mesh4/mesh4-geometry#mesh4-geometry.mesh4/mesh4-geometry#mesh4-geometry_1.material_0_0",
+                    "mesh4/mesh4-geometry#mesh4-geometry.mesh4/mesh4-geometry#mesh4-geometry_2",
+                    "mesh4/mesh4-geometry#mesh4-geometry.mesh4/mesh4-geometry#mesh4-geometry_2.material_0_0"
+                ]
+            },
+            "export method": 1,
+            "DecomposeMeshes": true,
+            "PhysicsMaterialSlots": {
+                "Slots": [
+                    {
+                        "Name": "material_0_0"
+                    }
+                ]
+            }
+        }
+    ]
+}

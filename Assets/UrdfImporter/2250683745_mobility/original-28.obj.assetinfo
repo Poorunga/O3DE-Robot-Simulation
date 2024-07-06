@@ -1,0 +1,59 @@
+{
+    "values": [
+        {
+            "$type": "{41DCBEAB-203C-4A05-96FA-98E1D8A96FA1} ImportGroup",
+            "ImportSettings": {
+                "OptimizeScene": true,
+                "OptimizeMeshes": true
+            }
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "original-28",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "Box11-FACE1/Box11-FACE/mesh27/mesh27-geometry#mesh27-geometry",
+                    "Box11-FACE1/Box11-FACE/mesh27/mesh27-geometry#mesh27-geometry.Box11-FACE1/Box11-FACE/mesh27/mesh27-geometry#mesh27-geometry_1",
+                    "Box11-FACE1/Box11-FACE/mesh27/mesh27-geometry#mesh27-geometry.Box11-FACE1/Box11-FACE/mesh27/mesh27-geometry#mesh27-geometry_1.material_0_0",
+                    "Box11-FACE1/Box11-FACE/mesh27/mesh27-geometry#mesh27-geometry.Box11-FACE1/Box11-FACE/mesh27/mesh27-geometry#mesh27-geometry_1.material_1_0",
+                    "Box11-FACE1/Box11-FACE/mesh27/mesh27-geometry#mesh27-geometry.Box11-FACE1/Box11-FACE/mesh27/mesh27-geometry#mesh27-geometry_2",
+                    "Box11-FACE1/Box11-FACE/mesh27/mesh27-geometry#mesh27-geometry.Box11-FACE1/Box11-FACE/mesh27/mesh27-geometry#mesh27-geometry_2.material_0_0",
+                    "Box11-FACE1/Box11-FACE/mesh27/mesh27-geometry#mesh27-geometry.Box11-FACE1/Box11-FACE/mesh27/mesh27-geometry#mesh27-geometry_2.material_1_0"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "UVsRule"
+                    }
+                ]
+            },
+            "id": "{C546D6D7-CA11-4BB9-B3B0-1F9CC3332A0C}"
+        },
+        {
+            "$type": "{5B03C8E6-8CEE-4DA0-A7FA-CD88689DD45B} MeshGroup",
+            "id": "{3818B1C0-A4B7-4D11-9075-92E70C7BBC18}",
+            "name": "original-28",
+            "NodeSelectionList": {
+                "selectedNodes": [
+                    "Box11-FACE1/Box11-FACE/mesh27/mesh27-geometry#mesh27-geometry",
+                    "Box11-FACE1/Box11-FACE/mesh27/mesh27-geometry#mesh27-geometry.Box11-FACE1/Box11-FACE/mesh27/mesh27-geometry#mesh27-geometry_1",
+                    "Box11-FACE1/Box11-FACE/mesh27/mesh27-geometry#mesh27-geometry.Box11-FACE1/Box11-FACE/mesh27/mesh27-geometry#mesh27-geometry_1.material_0_0",
+                    "Box11-FACE1/Box11-FACE/mesh27/mesh27-geometry#mesh27-geometry.Box11-FACE1/Box11-FACE/mesh27/mesh27-geometry#mesh27-geometry_1.material_1_0",
+                    "Box11-FACE1/Box11-FACE/mesh27/mesh27-geometry#mesh27-geometry.Box11-FACE1/Box11-FACE/mesh27/mesh27-geometry#mesh27-geometry_2",
+                    "Box11-FACE1/Box11-FACE/mesh27/mesh27-geometry#mesh27-geometry.Box11-FACE1/Box11-FACE/mesh27/mesh27-geometry#mesh27-geometry_2.material_0_0",
+                    "Box11-FACE1/Box11-FACE/mesh27/mesh27-geometry#mesh27-geometry.Box11-FACE1/Box11-FACE/mesh27/mesh27-geometry#mesh27-geometry_2.material_1_0"
+                ]
+            },
+            "export method": 1,
+            "DecomposeMeshes": true,
+            "PhysicsMaterialSlots": {
+                "Slots": [
+                    {
+                        "Name": "material_0_0"
+                    }
+                ]
+            }
+        }
+    ]
+}

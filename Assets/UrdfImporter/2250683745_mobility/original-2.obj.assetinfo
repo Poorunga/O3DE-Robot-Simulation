@@ -1,0 +1,59 @@
+{
+    "values": [
+        {
+            "$type": "{41DCBEAB-203C-4A05-96FA-98E1D8A96FA1} ImportGroup",
+            "ImportSettings": {
+                "OptimizeScene": true,
+                "OptimizeMeshes": true
+            }
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "original-2",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "Box02-FACE1/Box02-FACE/mesh2/mesh2-geometry#mesh2-geometry",
+                    "Box02-FACE1/Box02-FACE/mesh2/mesh2-geometry#mesh2-geometry.Box02-FACE1/Box02-FACE/mesh2/mesh2-geometry#mesh2-geometry_1",
+                    "Box02-FACE1/Box02-FACE/mesh2/mesh2-geometry#mesh2-geometry.Box02-FACE1/Box02-FACE/mesh2/mesh2-geometry#mesh2-geometry_1.material_0_0",
+                    "Box02-FACE1/Box02-FACE/mesh2/mesh2-geometry#mesh2-geometry.Box02-FACE1/Box02-FACE/mesh2/mesh2-geometry#mesh2-geometry_1.material_1_0",
+                    "Box02-FACE1/Box02-FACE/mesh2/mesh2-geometry#mesh2-geometry.Box02-FACE1/Box02-FACE/mesh2/mesh2-geometry#mesh2-geometry_2",
+                    "Box02-FACE1/Box02-FACE/mesh2/mesh2-geometry#mesh2-geometry.Box02-FACE1/Box02-FACE/mesh2/mesh2-geometry#mesh2-geometry_2.material_0_0",
+                    "Box02-FACE1/Box02-FACE/mesh2/mesh2-geometry#mesh2-geometry.Box02-FACE1/Box02-FACE/mesh2/mesh2-geometry#mesh2-geometry_2.material_1_0"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "UVsRule"
+                    }
+                ]
+            },
+            "id": "{272D2FB3-CD75-4A5F-A20E-81605D91B9A9}"
+        },
+        {
+            "$type": "{5B03C8E6-8CEE-4DA0-A7FA-CD88689DD45B} MeshGroup",
+            "id": "{0C0F9C62-C2CD-4F7F-A321-A6280C215BFC}",
+            "name": "original-2",
+            "NodeSelectionList": {
+                "selectedNodes": [
+                    "Box02-FACE1/Box02-FACE/mesh2/mesh2-geometry#mesh2-geometry",
+                    "Box02-FACE1/Box02-FACE/mesh2/mesh2-geometry#mesh2-geometry.Box02-FACE1/Box02-FACE/mesh2/mesh2-geometry#mesh2-geometry_1",
+                    "Box02-FACE1/Box02-FACE/mesh2/mesh2-geometry#mesh2-geometry.Box02-FACE1/Box02-FACE/mesh2/mesh2-geometry#mesh2-geometry_1.material_0_0",
+                    "Box02-FACE1/Box02-FACE/mesh2/mesh2-geometry#mesh2-geometry.Box02-FACE1/Box02-FACE/mesh2/mesh2-geometry#mesh2-geometry_1.material_1_0",
+                    "Box02-FACE1/Box02-FACE/mesh2/mesh2-geometry#mesh2-geometry.Box02-FACE1/Box02-FACE/mesh2/mesh2-geometry#mesh2-geometry_2",
+                    "Box02-FACE1/Box02-FACE/mesh2/mesh2-geometry#mesh2-geometry.Box02-FACE1/Box02-FACE/mesh2/mesh2-geometry#mesh2-geometry_2.material_0_0",
+                    "Box02-FACE1/Box02-FACE/mesh2/mesh2-geometry#mesh2-geometry.Box02-FACE1/Box02-FACE/mesh2/mesh2-geometry#mesh2-geometry_2.material_1_0"
+                ]
+            },
+            "export method": 1,
+            "DecomposeMeshes": true,
+            "PhysicsMaterialSlots": {
+                "Slots": [
+                    {
+                        "Name": "material_0_0"
+                    }
+                ]
+            }
+        }
+    ]
+}

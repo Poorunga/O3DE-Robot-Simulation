@@ -1,0 +1,59 @@
+{
+    "values": [
+        {
+            "$type": "{41DCBEAB-203C-4A05-96FA-98E1D8A96FA1} ImportGroup",
+            "ImportSettings": {
+                "OptimizeScene": true,
+                "OptimizeMeshes": true
+            }
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "original-10",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "Spring01-F1/Spring01-F/mesh10/mesh10-geometry#mesh10-geometry",
+                    "Spring01-F1/Spring01-F/mesh10/mesh10-geometry#mesh10-geometry.Spring01-F1/Spring01-F/mesh10/mesh10-geometry#mesh10-geometry_1",
+                    "Spring01-F1/Spring01-F/mesh10/mesh10-geometry#mesh10-geometry.Spring01-F1/Spring01-F/mesh10/mesh10-geometry#mesh10-geometry_1.material_0_0",
+                    "Spring01-F1/Spring01-F/mesh10/mesh10-geometry#mesh10-geometry.Spring01-F1/Spring01-F/mesh10/mesh10-geometry#mesh10-geometry_1.material_1_0",
+                    "Spring01-F1/Spring01-F/mesh10/mesh10-geometry#mesh10-geometry.Spring01-F1/Spring01-F/mesh10/mesh10-geometry#mesh10-geometry_2",
+                    "Spring01-F1/Spring01-F/mesh10/mesh10-geometry#mesh10-geometry.Spring01-F1/Spring01-F/mesh10/mesh10-geometry#mesh10-geometry_2.material_0_0",
+                    "Spring01-F1/Spring01-F/mesh10/mesh10-geometry#mesh10-geometry.Spring01-F1/Spring01-F/mesh10/mesh10-geometry#mesh10-geometry_2.material_1_0"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "UVsRule"
+                    }
+                ]
+            },
+            "id": "{CD1029C8-0456-40AD-8BE9-E3D8FA413E8F}"
+        },
+        {
+            "$type": "{5B03C8E6-8CEE-4DA0-A7FA-CD88689DD45B} MeshGroup",
+            "id": "{A35E0DF6-2723-42D5-81B8-DBD1CA3883A8}",
+            "name": "original-10",
+            "NodeSelectionList": {
+                "selectedNodes": [
+                    "Spring01-F1/Spring01-F/mesh10/mesh10-geometry#mesh10-geometry",
+                    "Spring01-F1/Spring01-F/mesh10/mesh10-geometry#mesh10-geometry.Spring01-F1/Spring01-F/mesh10/mesh10-geometry#mesh10-geometry_1",
+                    "Spring01-F1/Spring01-F/mesh10/mesh10-geometry#mesh10-geometry.Spring01-F1/Spring01-F/mesh10/mesh10-geometry#mesh10-geometry_1.material_0_0",
+                    "Spring01-F1/Spring01-F/mesh10/mesh10-geometry#mesh10-geometry.Spring01-F1/Spring01-F/mesh10/mesh10-geometry#mesh10-geometry_1.material_1_0",
+                    "Spring01-F1/Spring01-F/mesh10/mesh10-geometry#mesh10-geometry.Spring01-F1/Spring01-F/mesh10/mesh10-geometry#mesh10-geometry_2",
+                    "Spring01-F1/Spring01-F/mesh10/mesh10-geometry#mesh10-geometry.Spring01-F1/Spring01-F/mesh10/mesh10-geometry#mesh10-geometry_2.material_0_0",
+                    "Spring01-F1/Spring01-F/mesh10/mesh10-geometry#mesh10-geometry.Spring01-F1/Spring01-F/mesh10/mesh10-geometry#mesh10-geometry_2.material_1_0"
+                ]
+            },
+            "export method": 1,
+            "DecomposeMeshes": true,
+            "PhysicsMaterialSlots": {
+                "Slots": [
+                    {
+                        "Name": "material_0_0"
+                    }
+                ]
+            }
+        }
+    ]
+}

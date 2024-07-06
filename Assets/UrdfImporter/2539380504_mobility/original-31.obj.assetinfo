@@ -1,0 +1,55 @@
+{
+    "values": [
+        {
+            "$type": "{41DCBEAB-203C-4A05-96FA-98E1D8A96FA1} ImportGroup",
+            "ImportSettings": {
+                "OptimizeScene": true,
+                "OptimizeMeshes": true
+            }
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "original-31",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "Group_23_2/Group_23_1_2/mesh25/mesh25-geometry#mesh25-geometry",
+                    "Group_23_2/Group_23_1_2/mesh25/mesh25-geometry#mesh25-geometry.Group_23_2/Group_23_1_2/mesh25/mesh25-geometry#mesh25-geometry_1",
+                    "Group_23_2/Group_23_1_2/mesh25/mesh25-geometry#mesh25-geometry.Group_23_2/Group_23_1_2/mesh25/mesh25-geometry#mesh25-geometry_1.material_0_0",
+                    "Group_23_2/Group_23_1_2/mesh25/mesh25-geometry#mesh25-geometry.Group_23_2/Group_23_1_2/mesh25/mesh25-geometry#mesh25-geometry_2",
+                    "Group_23_2/Group_23_1_2/mesh25/mesh25-geometry#mesh25-geometry.Group_23_2/Group_23_1_2/mesh25/mesh25-geometry#mesh25-geometry_2.material_0_0"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "UVsRule"
+                    }
+                ]
+            },
+            "id": "{4EECE55C-A880-4F15-9B3A-9F640C7B0CCD}"
+        },
+        {
+            "$type": "{5B03C8E6-8CEE-4DA0-A7FA-CD88689DD45B} MeshGroup",
+            "id": "{7DA48F34-7B4E-458F-8D91-0029B8B4847E}",
+            "name": "original-31",
+            "NodeSelectionList": {
+                "selectedNodes": [
+                    "Group_23_2/Group_23_1_2/mesh25/mesh25-geometry#mesh25-geometry",
+                    "Group_23_2/Group_23_1_2/mesh25/mesh25-geometry#mesh25-geometry.Group_23_2/Group_23_1_2/mesh25/mesh25-geometry#mesh25-geometry_1",
+                    "Group_23_2/Group_23_1_2/mesh25/mesh25-geometry#mesh25-geometry.Group_23_2/Group_23_1_2/mesh25/mesh25-geometry#mesh25-geometry_1.material_0_0",
+                    "Group_23_2/Group_23_1_2/mesh25/mesh25-geometry#mesh25-geometry.Group_23_2/Group_23_1_2/mesh25/mesh25-geometry#mesh25-geometry_2",
+                    "Group_23_2/Group_23_1_2/mesh25/mesh25-geometry#mesh25-geometry.Group_23_2/Group_23_1_2/mesh25/mesh25-geometry#mesh25-geometry_2.material_0_0"
+                ]
+            },
+            "export method": 1,
+            "DecomposeMeshes": true,
+            "PhysicsMaterialSlots": {
+                "Slots": [
+                    {
+                        "Name": "material_0_0"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "values": [
+        {
+            "$type": "{41DCBEAB-203C-4A05-96FA-98E1D8A96FA1} ImportGroup",
+            "ImportSettings": {
+                "OptimizeScene": true,
+                "OptimizeMeshes": true
+            }
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "original-21",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "berenice-tube_L/mesh24/mesh24-geometry#mesh24-geometry",
+                    "berenice-tube_L/mesh24/mesh24-geometry#mesh24-geometry.berenice-tube_L/mesh24/mesh24-geometry#mesh24-geometry_1",
+                    "berenice-tube_L/mesh24/mesh24-geometry#mesh24-geometry.berenice-tube_L/mesh24/mesh24-geometry#mesh24-geometry_1.material_0_0",
+                    "berenice-tube_L/mesh24/mesh24-geometry#mesh24-geometry.berenice-tube_L/mesh24/mesh24-geometry#mesh24-geometry_2",
+                    "berenice-tube_L/mesh24/mesh24-geometry#mesh24-geometry.berenice-tube_L/mesh24/mesh24-geometry#mesh24-geometry_2.material_0_0"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "UVsRule"
+                    }
+                ]
+            },
+            "id": "{3EA36B32-4697-4912-8728-EC6F24F6B4E3}"
+        },
+        {
+            "$type": "{5B03C8E6-8CEE-4DA0-A7FA-CD88689DD45B} MeshGroup",
+            "id": "{626FCBD1-E86D-4B9E-ABDA-CB241777D041}",
+            "name": "original-21",
+            "NodeSelectionList": {
+                "selectedNodes": [
+                    "berenice-tube_L/mesh24/mesh24-geometry#mesh24-geometry",
+                    "berenice-tube_L/mesh24/mesh24-geometry#mesh24-geometry.berenice-tube_L/mesh24/mesh24-geometry#mesh24-geometry_1",
+                    "berenice-tube_L/mesh24/mesh24-geometry#mesh24-geometry.berenice-tube_L/mesh24/mesh24-geometry#mesh24-geometry_1.material_0_0",
+                    "berenice-tube_L/mesh24/mesh24-geometry#mesh24-geometry.berenice-tube_L/mesh24/mesh24-geometry#mesh24-geometry_2",
+                    "berenice-tube_L/mesh24/mesh24-geometry#mesh24-geometry.berenice-tube_L/mesh24/mesh24-geometry#mesh24-geometry_2.material_0_0"
+                ]
+            },
+            "export method": 1,
+            "DecomposeMeshes": true,
+            "PhysicsMaterialSlots": {
+                "Slots": [
+                    {
+                        "Name": "material_0_0"
+                    }
+                ]
+            }
+        }
+    ]
+}

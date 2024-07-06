@@ -1,0 +1,59 @@
+{
+    "values": [
+        {
+            "$type": "{41DCBEAB-203C-4A05-96FA-98E1D8A96FA1} ImportGroup",
+            "ImportSettings": {
+                "OptimizeScene": true,
+                "OptimizeMeshes": true
+            }
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "original-61",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "mesh56/mesh56-geometry#mesh56-geometry",
+                    "mesh56/mesh56-geometry#mesh56-geometry.mesh56/mesh56-geometry#mesh56-geometry_1",
+                    "mesh56/mesh56-geometry#mesh56-geometry.mesh56/mesh56-geometry#mesh56-geometry_1.material_0_0",
+                    "mesh56/mesh56-geometry#mesh56-geometry.mesh56/mesh56-geometry#mesh56-geometry_1.material_1_0",
+                    "mesh56/mesh56-geometry#mesh56-geometry.mesh56/mesh56-geometry#mesh56-geometry_2",
+                    "mesh56/mesh56-geometry#mesh56-geometry.mesh56/mesh56-geometry#mesh56-geometry_2.material_0_0",
+                    "mesh56/mesh56-geometry#mesh56-geometry.mesh56/mesh56-geometry#mesh56-geometry_2.material_1_0"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "UVsRule"
+                    }
+                ]
+            },
+            "id": "{46C2972D-BB02-44A0-80A4-5E76CBC54C7D}"
+        },
+        {
+            "$type": "{5B03C8E6-8CEE-4DA0-A7FA-CD88689DD45B} MeshGroup",
+            "id": "{268ECCA7-A554-42D1-BD15-D4B8B89BC779}",
+            "name": "original-61",
+            "NodeSelectionList": {
+                "selectedNodes": [
+                    "mesh56/mesh56-geometry#mesh56-geometry",
+                    "mesh56/mesh56-geometry#mesh56-geometry.mesh56/mesh56-geometry#mesh56-geometry_1",
+                    "mesh56/mesh56-geometry#mesh56-geometry.mesh56/mesh56-geometry#mesh56-geometry_1.material_0_0",
+                    "mesh56/mesh56-geometry#mesh56-geometry.mesh56/mesh56-geometry#mesh56-geometry_1.material_1_0",
+                    "mesh56/mesh56-geometry#mesh56-geometry.mesh56/mesh56-geometry#mesh56-geometry_2",
+                    "mesh56/mesh56-geometry#mesh56-geometry.mesh56/mesh56-geometry#mesh56-geometry_2.material_0_0",
+                    "mesh56/mesh56-geometry#mesh56-geometry.mesh56/mesh56-geometry#mesh56-geometry_2.material_1_0"
+                ]
+            },
+            "export method": 1,
+            "DecomposeMeshes": true,
+            "PhysicsMaterialSlots": {
+                "Slots": [
+                    {
+                        "Name": "material_0_0"
+                    }
+                ]
+            }
+        }
+    ]
+}

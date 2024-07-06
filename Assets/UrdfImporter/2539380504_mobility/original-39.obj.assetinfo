@@ -1,0 +1,55 @@
+{
+    "values": [
+        {
+            "$type": "{41DCBEAB-203C-4A05-96FA-98E1D8A96FA1} ImportGroup",
+            "ImportSettings": {
+                "OptimizeScene": true,
+                "OptimizeMeshes": true
+            }
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "original-39",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "Group_23_1/Group_23/mesh11/mesh11-geometry#mesh11-geometry",
+                    "Group_23_1/Group_23/mesh11/mesh11-geometry#mesh11-geometry.Group_23_1/Group_23/mesh11/mesh11-geometry#mesh11-geometry_1",
+                    "Group_23_1/Group_23/mesh11/mesh11-geometry#mesh11-geometry.Group_23_1/Group_23/mesh11/mesh11-geometry#mesh11-geometry_1.material_0_0",
+                    "Group_23_1/Group_23/mesh11/mesh11-geometry#mesh11-geometry.Group_23_1/Group_23/mesh11/mesh11-geometry#mesh11-geometry_2",
+                    "Group_23_1/Group_23/mesh11/mesh11-geometry#mesh11-geometry.Group_23_1/Group_23/mesh11/mesh11-geometry#mesh11-geometry_2.material_0_0"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "UVsRule"
+                    }
+                ]
+            },
+            "id": "{CAACF22E-EB38-41CC-8C27-2FF59C1FF505}"
+        },
+        {
+            "$type": "{5B03C8E6-8CEE-4DA0-A7FA-CD88689DD45B} MeshGroup",
+            "id": "{7CB17B62-D8C3-4B8F-9DA0-43F39B15DFD4}",
+            "name": "original-39",
+            "NodeSelectionList": {
+                "selectedNodes": [
+                    "Group_23_1/Group_23/mesh11/mesh11-geometry#mesh11-geometry",
+                    "Group_23_1/Group_23/mesh11/mesh11-geometry#mesh11-geometry.Group_23_1/Group_23/mesh11/mesh11-geometry#mesh11-geometry_1",
+                    "Group_23_1/Group_23/mesh11/mesh11-geometry#mesh11-geometry.Group_23_1/Group_23/mesh11/mesh11-geometry#mesh11-geometry_1.material_0_0",
+                    "Group_23_1/Group_23/mesh11/mesh11-geometry#mesh11-geometry.Group_23_1/Group_23/mesh11/mesh11-geometry#mesh11-geometry_2",
+                    "Group_23_1/Group_23/mesh11/mesh11-geometry#mesh11-geometry.Group_23_1/Group_23/mesh11/mesh11-geometry#mesh11-geometry_2.material_0_0"
+                ]
+            },
+            "export method": 1,
+            "DecomposeMeshes": true,
+            "PhysicsMaterialSlots": {
+                "Slots": [
+                    {
+                        "Name": "material_0_0"
+                    }
+                ]
+            }
+        }
+    ]
+}

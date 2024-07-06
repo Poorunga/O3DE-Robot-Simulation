@@ -1,0 +1,55 @@
+{
+    "values": [
+        {
+            "$type": "{41DCBEAB-203C-4A05-96FA-98E1D8A96FA1} ImportGroup",
+            "ImportSettings": {
+                "OptimizeScene": true,
+                "OptimizeMeshes": true
+            }
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "original-66",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "mesh73/mesh73-geometry#mesh73-geometry",
+                    "mesh73/mesh73-geometry#mesh73-geometry.mesh73/mesh73-geometry#mesh73-geometry_1",
+                    "mesh73/mesh73-geometry#mesh73-geometry.mesh73/mesh73-geometry#mesh73-geometry_1.material_0_0",
+                    "mesh73/mesh73-geometry#mesh73-geometry.mesh73/mesh73-geometry#mesh73-geometry_2",
+                    "mesh73/mesh73-geometry#mesh73-geometry.mesh73/mesh73-geometry#mesh73-geometry_2.material_0_0"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "UVsRule"
+                    }
+                ]
+            },
+            "id": "{96ED9479-BA33-43A0-B995-4A8809C93E3B}"
+        },
+        {
+            "$type": "{5B03C8E6-8CEE-4DA0-A7FA-CD88689DD45B} MeshGroup",
+            "id": "{5E65982C-F015-40F8-A167-352CAB4FEE6E}",
+            "name": "original-66",
+            "NodeSelectionList": {
+                "selectedNodes": [
+                    "mesh73/mesh73-geometry#mesh73-geometry",
+                    "mesh73/mesh73-geometry#mesh73-geometry.mesh73/mesh73-geometry#mesh73-geometry_1",
+                    "mesh73/mesh73-geometry#mesh73-geometry.mesh73/mesh73-geometry#mesh73-geometry_1.material_0_0",
+                    "mesh73/mesh73-geometry#mesh73-geometry.mesh73/mesh73-geometry#mesh73-geometry_2",
+                    "mesh73/mesh73-geometry#mesh73-geometry.mesh73/mesh73-geometry#mesh73-geometry_2.material_0_0"
+                ]
+            },
+            "export method": 1,
+            "DecomposeMeshes": true,
+            "PhysicsMaterialSlots": {
+                "Slots": [
+                    {
+                        "Name": "material_0_0"
+                    }
+                ]
+            }
+        }
+    ]
+}

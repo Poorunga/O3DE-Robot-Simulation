@@ -1,0 +1,55 @@
+{
+    "values": [
+        {
+            "$type": "{41DCBEAB-203C-4A05-96FA-98E1D8A96FA1} ImportGroup",
+            "ImportSettings": {
+                "OptimizeScene": true,
+                "OptimizeMeshes": true
+            }
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "original-63",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "berenice-bezel/mesh60/mesh60-geometry#mesh60-geometry",
+                    "berenice-bezel/mesh60/mesh60-geometry#mesh60-geometry.berenice-bezel/mesh60/mesh60-geometry#mesh60-geometry_1",
+                    "berenice-bezel/mesh60/mesh60-geometry#mesh60-geometry.berenice-bezel/mesh60/mesh60-geometry#mesh60-geometry_1.material_0_0",
+                    "berenice-bezel/mesh60/mesh60-geometry#mesh60-geometry.berenice-bezel/mesh60/mesh60-geometry#mesh60-geometry_2",
+                    "berenice-bezel/mesh60/mesh60-geometry#mesh60-geometry.berenice-bezel/mesh60/mesh60-geometry#mesh60-geometry_2.material_0_0"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "UVsRule"
+                    }
+                ]
+            },
+            "id": "{C5C85785-A6CD-4BA1-9382-2B3805EFD239}"
+        },
+        {
+            "$type": "{5B03C8E6-8CEE-4DA0-A7FA-CD88689DD45B} MeshGroup",
+            "id": "{6F354EDC-C7C6-4402-913D-F558BAF3DC2B}",
+            "name": "original-63",
+            "NodeSelectionList": {
+                "selectedNodes": [
+                    "berenice-bezel/mesh60/mesh60-geometry#mesh60-geometry",
+                    "berenice-bezel/mesh60/mesh60-geometry#mesh60-geometry.berenice-bezel/mesh60/mesh60-geometry#mesh60-geometry_1",
+                    "berenice-bezel/mesh60/mesh60-geometry#mesh60-geometry.berenice-bezel/mesh60/mesh60-geometry#mesh60-geometry_1.material_0_0",
+                    "berenice-bezel/mesh60/mesh60-geometry#mesh60-geometry.berenice-bezel/mesh60/mesh60-geometry#mesh60-geometry_2",
+                    "berenice-bezel/mesh60/mesh60-geometry#mesh60-geometry.berenice-bezel/mesh60/mesh60-geometry#mesh60-geometry_2.material_0_0"
+                ]
+            },
+            "export method": 1,
+            "DecomposeMeshes": true,
+            "PhysicsMaterialSlots": {
+                "Slots": [
+                    {
+                        "Name": "material_0_0"
+                    }
+                ]
+            }
+        }
+    ]
+}

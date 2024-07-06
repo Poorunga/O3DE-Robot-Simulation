@@ -1,0 +1,59 @@
+{
+    "values": [
+        {
+            "$type": "{41DCBEAB-203C-4A05-96FA-98E1D8A96FA1} ImportGroup",
+            "ImportSettings": {
+                "OptimizeScene": true,
+                "OptimizeMeshes": true
+            }
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "original-74",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "RPS_lamp_shade_1_1/RPS_lamp_shade_1/Shade/mesh86/mesh86-geometry#mesh86-geometry",
+                    "RPS_lamp_shade_1_1/RPS_lamp_shade_1/Shade/mesh86/mesh86-geometry#mesh86-geometry.RPS_lamp_shade_1_1/RPS_lamp_shade_1/Shade/mesh86/mesh86-geometry#mesh86-geometry_1",
+                    "RPS_lamp_shade_1_1/RPS_lamp_shade_1/Shade/mesh86/mesh86-geometry#mesh86-geometry.RPS_lamp_shade_1_1/RPS_lamp_shade_1/Shade/mesh86/mesh86-geometry#mesh86-geometry_1.UV0",
+                    "RPS_lamp_shade_1_1/RPS_lamp_shade_1/Shade/mesh86/mesh86-geometry#mesh86-geometry.RPS_lamp_shade_1_1/RPS_lamp_shade_1/Shade/mesh86/mesh86-geometry#mesh86-geometry_1.material_0_0",
+                    "RPS_lamp_shade_1_1/RPS_lamp_shade_1/Shade/mesh86/mesh86-geometry#mesh86-geometry.RPS_lamp_shade_1_1/RPS_lamp_shade_1/Shade/mesh86/mesh86-geometry#mesh86-geometry_2",
+                    "RPS_lamp_shade_1_1/RPS_lamp_shade_1/Shade/mesh86/mesh86-geometry#mesh86-geometry.RPS_lamp_shade_1_1/RPS_lamp_shade_1/Shade/mesh86/mesh86-geometry#mesh86-geometry_2.UV0",
+                    "RPS_lamp_shade_1_1/RPS_lamp_shade_1/Shade/mesh86/mesh86-geometry#mesh86-geometry.RPS_lamp_shade_1_1/RPS_lamp_shade_1/Shade/mesh86/mesh86-geometry#mesh86-geometry_2.material_0_0"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "UVsRule"
+                    }
+                ]
+            },
+            "id": "{467F605C-C0D6-467C-A863-3CCFCA9C21F9}"
+        },
+        {
+            "$type": "{5B03C8E6-8CEE-4DA0-A7FA-CD88689DD45B} MeshGroup",
+            "id": "{34BD73DB-1F3C-4B7D-9BE7-04C875D9620A}",
+            "name": "original-74",
+            "NodeSelectionList": {
+                "selectedNodes": [
+                    "RPS_lamp_shade_1_1/RPS_lamp_shade_1/Shade/mesh86/mesh86-geometry#mesh86-geometry",
+                    "RPS_lamp_shade_1_1/RPS_lamp_shade_1/Shade/mesh86/mesh86-geometry#mesh86-geometry.RPS_lamp_shade_1_1/RPS_lamp_shade_1/Shade/mesh86/mesh86-geometry#mesh86-geometry_1",
+                    "RPS_lamp_shade_1_1/RPS_lamp_shade_1/Shade/mesh86/mesh86-geometry#mesh86-geometry.RPS_lamp_shade_1_1/RPS_lamp_shade_1/Shade/mesh86/mesh86-geometry#mesh86-geometry_1.UV0",
+                    "RPS_lamp_shade_1_1/RPS_lamp_shade_1/Shade/mesh86/mesh86-geometry#mesh86-geometry.RPS_lamp_shade_1_1/RPS_lamp_shade_1/Shade/mesh86/mesh86-geometry#mesh86-geometry_1.material_0_0",
+                    "RPS_lamp_shade_1_1/RPS_lamp_shade_1/Shade/mesh86/mesh86-geometry#mesh86-geometry.RPS_lamp_shade_1_1/RPS_lamp_shade_1/Shade/mesh86/mesh86-geometry#mesh86-geometry_2",
+                    "RPS_lamp_shade_1_1/RPS_lamp_shade_1/Shade/mesh86/mesh86-geometry#mesh86-geometry.RPS_lamp_shade_1_1/RPS_lamp_shade_1/Shade/mesh86/mesh86-geometry#mesh86-geometry_2.UV0",
+                    "RPS_lamp_shade_1_1/RPS_lamp_shade_1/Shade/mesh86/mesh86-geometry#mesh86-geometry.RPS_lamp_shade_1_1/RPS_lamp_shade_1/Shade/mesh86/mesh86-geometry#mesh86-geometry_2.material_0_0"
+                ]
+            },
+            "export method": 1,
+            "DecomposeMeshes": true,
+            "PhysicsMaterialSlots": {
+                "Slots": [
+                    {
+                        "Name": "material_0_0"
+                    }
+                ]
+            }
+        }
+    ]
+}

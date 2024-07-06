@@ -1,0 +1,59 @@
+{
+    "values": [
+        {
+            "$type": "{41DCBEAB-203C-4A05-96FA-98E1D8A96FA1} ImportGroup",
+            "ImportSettings": {
+                "OptimizeScene": true,
+                "OptimizeMeshes": true
+            }
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "original-16",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "Cylinder29_1/Cylinder29/mesh16/mesh16-geometry#mesh16-geometry",
+                    "Cylinder29_1/Cylinder29/mesh16/mesh16-geometry#mesh16-geometry.Cylinder29_1/Cylinder29/mesh16/mesh16-geometry#mesh16-geometry_1",
+                    "Cylinder29_1/Cylinder29/mesh16/mesh16-geometry#mesh16-geometry.Cylinder29_1/Cylinder29/mesh16/mesh16-geometry#mesh16-geometry_1.material_0_0",
+                    "Cylinder29_1/Cylinder29/mesh16/mesh16-geometry#mesh16-geometry.Cylinder29_1/Cylinder29/mesh16/mesh16-geometry#mesh16-geometry_1.material_1_0",
+                    "Cylinder29_1/Cylinder29/mesh16/mesh16-geometry#mesh16-geometry.Cylinder29_1/Cylinder29/mesh16/mesh16-geometry#mesh16-geometry_2",
+                    "Cylinder29_1/Cylinder29/mesh16/mesh16-geometry#mesh16-geometry.Cylinder29_1/Cylinder29/mesh16/mesh16-geometry#mesh16-geometry_2.material_0_0",
+                    "Cylinder29_1/Cylinder29/mesh16/mesh16-geometry#mesh16-geometry.Cylinder29_1/Cylinder29/mesh16/mesh16-geometry#mesh16-geometry_2.material_1_0"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "UVsRule"
+                    }
+                ]
+            },
+            "id": "{25C0F698-0F42-4A9F-A49C-D86B28F97D35}"
+        },
+        {
+            "$type": "{5B03C8E6-8CEE-4DA0-A7FA-CD88689DD45B} MeshGroup",
+            "id": "{E7EE398A-1798-4830-A4F0-C708C08ADA81}",
+            "name": "original-16",
+            "NodeSelectionList": {
+                "selectedNodes": [
+                    "Cylinder29_1/Cylinder29/mesh16/mesh16-geometry#mesh16-geometry",
+                    "Cylinder29_1/Cylinder29/mesh16/mesh16-geometry#mesh16-geometry.Cylinder29_1/Cylinder29/mesh16/mesh16-geometry#mesh16-geometry_1",
+                    "Cylinder29_1/Cylinder29/mesh16/mesh16-geometry#mesh16-geometry.Cylinder29_1/Cylinder29/mesh16/mesh16-geometry#mesh16-geometry_1.material_0_0",
+                    "Cylinder29_1/Cylinder29/mesh16/mesh16-geometry#mesh16-geometry.Cylinder29_1/Cylinder29/mesh16/mesh16-geometry#mesh16-geometry_1.material_1_0",
+                    "Cylinder29_1/Cylinder29/mesh16/mesh16-geometry#mesh16-geometry.Cylinder29_1/Cylinder29/mesh16/mesh16-geometry#mesh16-geometry_2",
+                    "Cylinder29_1/Cylinder29/mesh16/mesh16-geometry#mesh16-geometry.Cylinder29_1/Cylinder29/mesh16/mesh16-geometry#mesh16-geometry_2.material_0_0",
+                    "Cylinder29_1/Cylinder29/mesh16/mesh16-geometry#mesh16-geometry.Cylinder29_1/Cylinder29/mesh16/mesh16-geometry#mesh16-geometry_2.material_1_0"
+                ]
+            },
+            "export method": 1,
+            "DecomposeMeshes": true,
+            "PhysicsMaterialSlots": {
+                "Slots": [
+                    {
+                        "Name": "material_0_0"
+                    }
+                ]
+            }
+        }
+    ]
+}

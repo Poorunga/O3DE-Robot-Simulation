@@ -1,0 +1,59 @@
+{
+    "values": [
+        {
+            "$type": "{41DCBEAB-203C-4A05-96FA-98E1D8A96FA1} ImportGroup",
+            "ImportSettings": {
+                "OptimizeScene": true,
+                "OptimizeMeshes": true
+            }
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "original-20",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "mesh19/mesh19-geometry#mesh19-geometry",
+                    "mesh19/mesh19-geometry#mesh19-geometry.mesh19/mesh19-geometry#mesh19-geometry_1",
+                    "mesh19/mesh19-geometry#mesh19-geometry.mesh19/mesh19-geometry#mesh19-geometry_1.material_0_0",
+                    "mesh19/mesh19-geometry#mesh19-geometry.mesh19/mesh19-geometry#mesh19-geometry_1.material_1_0",
+                    "mesh19/mesh19-geometry#mesh19-geometry.mesh19/mesh19-geometry#mesh19-geometry_2",
+                    "mesh19/mesh19-geometry#mesh19-geometry.mesh19/mesh19-geometry#mesh19-geometry_2.material_0_0",
+                    "mesh19/mesh19-geometry#mesh19-geometry.mesh19/mesh19-geometry#mesh19-geometry_2.material_1_0"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "UVsRule"
+                    }
+                ]
+            },
+            "id": "{0AFBC5DD-D89D-4130-9C5D-C2D5E124C325}"
+        },
+        {
+            "$type": "{5B03C8E6-8CEE-4DA0-A7FA-CD88689DD45B} MeshGroup",
+            "id": "{9F1ED49D-2871-45D1-8510-FD6C368CC239}",
+            "name": "original-20",
+            "NodeSelectionList": {
+                "selectedNodes": [
+                    "mesh19/mesh19-geometry#mesh19-geometry",
+                    "mesh19/mesh19-geometry#mesh19-geometry.mesh19/mesh19-geometry#mesh19-geometry_1",
+                    "mesh19/mesh19-geometry#mesh19-geometry.mesh19/mesh19-geometry#mesh19-geometry_1.material_0_0",
+                    "mesh19/mesh19-geometry#mesh19-geometry.mesh19/mesh19-geometry#mesh19-geometry_1.material_1_0",
+                    "mesh19/mesh19-geometry#mesh19-geometry.mesh19/mesh19-geometry#mesh19-geometry_2",
+                    "mesh19/mesh19-geometry#mesh19-geometry.mesh19/mesh19-geometry#mesh19-geometry_2.material_0_0",
+                    "mesh19/mesh19-geometry#mesh19-geometry.mesh19/mesh19-geometry#mesh19-geometry_2.material_1_0"
+                ]
+            },
+            "export method": 1,
+            "DecomposeMeshes": true,
+            "PhysicsMaterialSlots": {
+                "Slots": [
+                    {
+                        "Name": "material_0_0"
+                    }
+                ]
+            }
+        }
+    ]
+}

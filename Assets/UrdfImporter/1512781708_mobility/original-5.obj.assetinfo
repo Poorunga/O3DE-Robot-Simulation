@@ -1,0 +1,55 @@
+{
+    "values": [
+        {
+            "$type": "{41DCBEAB-203C-4A05-96FA-98E1D8A96FA1} ImportGroup",
+            "ImportSettings": {
+                "OptimizeScene": true,
+                "OptimizeMeshes": true
+            }
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "original-5",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "rocker1/rocker/mesh1/mesh1-geometry#mesh1-geometry",
+                    "rocker1/rocker/mesh1/mesh1-geometry#mesh1-geometry.rocker1/rocker/mesh1/mesh1-geometry#mesh1-geometry_1",
+                    "rocker1/rocker/mesh1/mesh1-geometry#mesh1-geometry.rocker1/rocker/mesh1/mesh1-geometry#mesh1-geometry_1.material_0_0",
+                    "rocker1/rocker/mesh1/mesh1-geometry#mesh1-geometry.rocker1/rocker/mesh1/mesh1-geometry#mesh1-geometry_2",
+                    "rocker1/rocker/mesh1/mesh1-geometry#mesh1-geometry.rocker1/rocker/mesh1/mesh1-geometry#mesh1-geometry_2.material_0_0"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "UVsRule"
+                    }
+                ]
+            },
+            "id": "{26723AF2-A75D-41FE-8783-10157E631234}"
+        },
+        {
+            "$type": "{5B03C8E6-8CEE-4DA0-A7FA-CD88689DD45B} MeshGroup",
+            "id": "{6A57AF8D-72FE-4FD5-AFF0-E1D991F9538E}",
+            "name": "original-5",
+            "NodeSelectionList": {
+                "selectedNodes": [
+                    "rocker1/rocker/mesh1/mesh1-geometry#mesh1-geometry",
+                    "rocker1/rocker/mesh1/mesh1-geometry#mesh1-geometry.rocker1/rocker/mesh1/mesh1-geometry#mesh1-geometry_1",
+                    "rocker1/rocker/mesh1/mesh1-geometry#mesh1-geometry.rocker1/rocker/mesh1/mesh1-geometry#mesh1-geometry_1.material_0_0",
+                    "rocker1/rocker/mesh1/mesh1-geometry#mesh1-geometry.rocker1/rocker/mesh1/mesh1-geometry#mesh1-geometry_2",
+                    "rocker1/rocker/mesh1/mesh1-geometry#mesh1-geometry.rocker1/rocker/mesh1/mesh1-geometry#mesh1-geometry_2.material_0_0"
+                ]
+            },
+            "export method": 1,
+            "DecomposeMeshes": true,
+            "PhysicsMaterialSlots": {
+                "Slots": [
+                    {
+                        "Name": "material_0_0"
+                    }
+                ]
+            }
+        }
+    ]
+}

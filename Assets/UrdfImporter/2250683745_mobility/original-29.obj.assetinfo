@@ -1,0 +1,59 @@
+{
+    "values": [
+        {
+            "$type": "{41DCBEAB-203C-4A05-96FA-98E1D8A96FA1} ImportGroup",
+            "ImportSettings": {
+                "OptimizeScene": true,
+                "OptimizeMeshes": true
+            }
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "original-29",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "bulb-FACES1/bulb-FACES/mesh28/mesh28-geometry#mesh28-geometry",
+                    "bulb-FACES1/bulb-FACES/mesh28/mesh28-geometry#mesh28-geometry.bulb-FACES1/bulb-FACES/mesh28/mesh28-geometry#mesh28-geometry_1",
+                    "bulb-FACES1/bulb-FACES/mesh28/mesh28-geometry#mesh28-geometry.bulb-FACES1/bulb-FACES/mesh28/mesh28-geometry#mesh28-geometry_1.material_0_0",
+                    "bulb-FACES1/bulb-FACES/mesh28/mesh28-geometry#mesh28-geometry.bulb-FACES1/bulb-FACES/mesh28/mesh28-geometry#mesh28-geometry_1.material_1_0",
+                    "bulb-FACES1/bulb-FACES/mesh28/mesh28-geometry#mesh28-geometry.bulb-FACES1/bulb-FACES/mesh28/mesh28-geometry#mesh28-geometry_2",
+                    "bulb-FACES1/bulb-FACES/mesh28/mesh28-geometry#mesh28-geometry.bulb-FACES1/bulb-FACES/mesh28/mesh28-geometry#mesh28-geometry_2.material_0_0",
+                    "bulb-FACES1/bulb-FACES/mesh28/mesh28-geometry#mesh28-geometry.bulb-FACES1/bulb-FACES/mesh28/mesh28-geometry#mesh28-geometry_2.material_1_0"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "UVsRule"
+                    }
+                ]
+            },
+            "id": "{03323CA8-E4AA-4ABE-B73C-E826DF24F0EA}"
+        },
+        {
+            "$type": "{5B03C8E6-8CEE-4DA0-A7FA-CD88689DD45B} MeshGroup",
+            "id": "{2770E92B-36A8-4200-8B94-7D9251C9F2D3}",
+            "name": "original-29",
+            "NodeSelectionList": {
+                "selectedNodes": [
+                    "bulb-FACES1/bulb-FACES/mesh28/mesh28-geometry#mesh28-geometry",
+                    "bulb-FACES1/bulb-FACES/mesh28/mesh28-geometry#mesh28-geometry.bulb-FACES1/bulb-FACES/mesh28/mesh28-geometry#mesh28-geometry_1",
+                    "bulb-FACES1/bulb-FACES/mesh28/mesh28-geometry#mesh28-geometry.bulb-FACES1/bulb-FACES/mesh28/mesh28-geometry#mesh28-geometry_1.material_0_0",
+                    "bulb-FACES1/bulb-FACES/mesh28/mesh28-geometry#mesh28-geometry.bulb-FACES1/bulb-FACES/mesh28/mesh28-geometry#mesh28-geometry_1.material_1_0",
+                    "bulb-FACES1/bulb-FACES/mesh28/mesh28-geometry#mesh28-geometry.bulb-FACES1/bulb-FACES/mesh28/mesh28-geometry#mesh28-geometry_2",
+                    "bulb-FACES1/bulb-FACES/mesh28/mesh28-geometry#mesh28-geometry.bulb-FACES1/bulb-FACES/mesh28/mesh28-geometry#mesh28-geometry_2.material_0_0",
+                    "bulb-FACES1/bulb-FACES/mesh28/mesh28-geometry#mesh28-geometry.bulb-FACES1/bulb-FACES/mesh28/mesh28-geometry#mesh28-geometry_2.material_1_0"
+                ]
+            },
+            "export method": 1,
+            "DecomposeMeshes": true,
+            "PhysicsMaterialSlots": {
+                "Slots": [
+                    {
+                        "Name": "material_0_0"
+                    }
+                ]
+            }
+        }
+    ]
+}

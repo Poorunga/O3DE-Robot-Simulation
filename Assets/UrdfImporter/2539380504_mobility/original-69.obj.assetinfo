@@ -1,0 +1,55 @@
+{
+    "values": [
+        {
+            "$type": "{41DCBEAB-203C-4A05-96FA-98E1D8A96FA1} ImportGroup",
+            "ImportSettings": {
+                "OptimizeScene": true,
+                "OptimizeMeshes": true
+            }
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "original-69",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "Omni-Disc_1_1/Omni-Disc_1/Omni_9/mesh78/mesh78-geometry#mesh78-geometry",
+                    "Omni-Disc_1_1/Omni-Disc_1/Omni_9/mesh78/mesh78-geometry#mesh78-geometry.Omni-Disc_1_1/Omni-Disc_1/Omni_9/mesh78/mesh78-geometry#mesh78-geometry_1",
+                    "Omni-Disc_1_1/Omni-Disc_1/Omni_9/mesh78/mesh78-geometry#mesh78-geometry.Omni-Disc_1_1/Omni-Disc_1/Omni_9/mesh78/mesh78-geometry#mesh78-geometry_1.material_0_0",
+                    "Omni-Disc_1_1/Omni-Disc_1/Omni_9/mesh78/mesh78-geometry#mesh78-geometry.Omni-Disc_1_1/Omni-Disc_1/Omni_9/mesh78/mesh78-geometry#mesh78-geometry_2",
+                    "Omni-Disc_1_1/Omni-Disc_1/Omni_9/mesh78/mesh78-geometry#mesh78-geometry.Omni-Disc_1_1/Omni-Disc_1/Omni_9/mesh78/mesh78-geometry#mesh78-geometry_2.material_0_0"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "UVsRule"
+                    }
+                ]
+            },
+            "id": "{A41422E7-17D9-491D-BC48-0DDE4130980C}"
+        },
+        {
+            "$type": "{5B03C8E6-8CEE-4DA0-A7FA-CD88689DD45B} MeshGroup",
+            "id": "{FBD6C8FC-E8E6-45F2-8E08-06C887960B22}",
+            "name": "original-69",
+            "NodeSelectionList": {
+                "selectedNodes": [
+                    "Omni-Disc_1_1/Omni-Disc_1/Omni_9/mesh78/mesh78-geometry#mesh78-geometry",
+                    "Omni-Disc_1_1/Omni-Disc_1/Omni_9/mesh78/mesh78-geometry#mesh78-geometry.Omni-Disc_1_1/Omni-Disc_1/Omni_9/mesh78/mesh78-geometry#mesh78-geometry_1",
+                    "Omni-Disc_1_1/Omni-Disc_1/Omni_9/mesh78/mesh78-geometry#mesh78-geometry.Omni-Disc_1_1/Omni-Disc_1/Omni_9/mesh78/mesh78-geometry#mesh78-geometry_1.material_0_0",
+                    "Omni-Disc_1_1/Omni-Disc_1/Omni_9/mesh78/mesh78-geometry#mesh78-geometry.Omni-Disc_1_1/Omni-Disc_1/Omni_9/mesh78/mesh78-geometry#mesh78-geometry_2",
+                    "Omni-Disc_1_1/Omni-Disc_1/Omni_9/mesh78/mesh78-geometry#mesh78-geometry.Omni-Disc_1_1/Omni-Disc_1/Omni_9/mesh78/mesh78-geometry#mesh78-geometry_2.material_0_0"
+                ]
+            },
+            "export method": 1,
+            "DecomposeMeshes": true,
+            "PhysicsMaterialSlots": {
+                "Slots": [
+                    {
+                        "Name": "material_0_0"
+                    }
+                ]
+            }
+        }
+    ]
+}

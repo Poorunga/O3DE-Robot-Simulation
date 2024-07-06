@@ -1,0 +1,59 @@
+{
+    "values": [
+        {
+            "$type": "{41DCBEAB-203C-4A05-96FA-98E1D8A96FA1} ImportGroup",
+            "ImportSettings": {
+                "OptimizeScene": true,
+                "OptimizeMeshes": true
+            }
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "original-30",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "Object01-F1/Object01-F/mesh29/mesh29-geometry#mesh29-geometry",
+                    "Object01-F1/Object01-F/mesh29/mesh29-geometry#mesh29-geometry.Object01-F1/Object01-F/mesh29/mesh29-geometry#mesh29-geometry_1",
+                    "Object01-F1/Object01-F/mesh29/mesh29-geometry#mesh29-geometry.Object01-F1/Object01-F/mesh29/mesh29-geometry#mesh29-geometry_1.material_0_0",
+                    "Object01-F1/Object01-F/mesh29/mesh29-geometry#mesh29-geometry.Object01-F1/Object01-F/mesh29/mesh29-geometry#mesh29-geometry_1.material_1_0",
+                    "Object01-F1/Object01-F/mesh29/mesh29-geometry#mesh29-geometry.Object01-F1/Object01-F/mesh29/mesh29-geometry#mesh29-geometry_2",
+                    "Object01-F1/Object01-F/mesh29/mesh29-geometry#mesh29-geometry.Object01-F1/Object01-F/mesh29/mesh29-geometry#mesh29-geometry_2.material_0_0",
+                    "Object01-F1/Object01-F/mesh29/mesh29-geometry#mesh29-geometry.Object01-F1/Object01-F/mesh29/mesh29-geometry#mesh29-geometry_2.material_1_0"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "UVsRule"
+                    }
+                ]
+            },
+            "id": "{5E184667-2FEB-4C57-A14F-3D521C7342BA}"
+        },
+        {
+            "$type": "{5B03C8E6-8CEE-4DA0-A7FA-CD88689DD45B} MeshGroup",
+            "id": "{874A1408-F831-40D5-943D-31E07F96261F}",
+            "name": "original-30",
+            "NodeSelectionList": {
+                "selectedNodes": [
+                    "Object01-F1/Object01-F/mesh29/mesh29-geometry#mesh29-geometry",
+                    "Object01-F1/Object01-F/mesh29/mesh29-geometry#mesh29-geometry.Object01-F1/Object01-F/mesh29/mesh29-geometry#mesh29-geometry_1",
+                    "Object01-F1/Object01-F/mesh29/mesh29-geometry#mesh29-geometry.Object01-F1/Object01-F/mesh29/mesh29-geometry#mesh29-geometry_1.material_0_0",
+                    "Object01-F1/Object01-F/mesh29/mesh29-geometry#mesh29-geometry.Object01-F1/Object01-F/mesh29/mesh29-geometry#mesh29-geometry_1.material_1_0",
+                    "Object01-F1/Object01-F/mesh29/mesh29-geometry#mesh29-geometry.Object01-F1/Object01-F/mesh29/mesh29-geometry#mesh29-geometry_2",
+                    "Object01-F1/Object01-F/mesh29/mesh29-geometry#mesh29-geometry.Object01-F1/Object01-F/mesh29/mesh29-geometry#mesh29-geometry_2.material_0_0",
+                    "Object01-F1/Object01-F/mesh29/mesh29-geometry#mesh29-geometry.Object01-F1/Object01-F/mesh29/mesh29-geometry#mesh29-geometry_2.material_1_0"
+                ]
+            },
+            "export method": 1,
+            "DecomposeMeshes": true,
+            "PhysicsMaterialSlots": {
+                "Slots": [
+                    {
+                        "Name": "material_0_0"
+                    }
+                ]
+            }
+        }
+    ]
+}

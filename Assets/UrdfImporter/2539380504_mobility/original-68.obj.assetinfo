@@ -1,0 +1,55 @@
+{
+    "values": [
+        {
+            "$type": "{41DCBEAB-203C-4A05-96FA-98E1D8A96FA1} ImportGroup",
+            "ImportSettings": {
+                "OptimizeScene": true,
+                "OptimizeMeshes": true
+            }
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "original-68",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "berenice-head_bracket1/berenice-head_bracket/mesh76/mesh76-geometry#mesh76-geometry",
+                    "berenice-head_bracket1/berenice-head_bracket/mesh76/mesh76-geometry#mesh76-geometry.berenice-head_bracket1/berenice-head_bracket/mesh76/mesh76-geometry#mesh76-geometry_1",
+                    "berenice-head_bracket1/berenice-head_bracket/mesh76/mesh76-geometry#mesh76-geometry.berenice-head_bracket1/berenice-head_bracket/mesh76/mesh76-geometry#mesh76-geometry_1.material_0_0",
+                    "berenice-head_bracket1/berenice-head_bracket/mesh76/mesh76-geometry#mesh76-geometry.berenice-head_bracket1/berenice-head_bracket/mesh76/mesh76-geometry#mesh76-geometry_2",
+                    "berenice-head_bracket1/berenice-head_bracket/mesh76/mesh76-geometry#mesh76-geometry.berenice-head_bracket1/berenice-head_bracket/mesh76/mesh76-geometry#mesh76-geometry_2.material_0_0"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "UVsRule"
+                    }
+                ]
+            },
+            "id": "{FD9EF63E-2B1F-46C0-A641-726CE616C6AF}"
+        },
+        {
+            "$type": "{5B03C8E6-8CEE-4DA0-A7FA-CD88689DD45B} MeshGroup",
+            "id": "{6923B52D-7331-45A1-9970-276D495B39A2}",
+            "name": "original-68",
+            "NodeSelectionList": {
+                "selectedNodes": [
+                    "berenice-head_bracket1/berenice-head_bracket/mesh76/mesh76-geometry#mesh76-geometry",
+                    "berenice-head_bracket1/berenice-head_bracket/mesh76/mesh76-geometry#mesh76-geometry.berenice-head_bracket1/berenice-head_bracket/mesh76/mesh76-geometry#mesh76-geometry_1",
+                    "berenice-head_bracket1/berenice-head_bracket/mesh76/mesh76-geometry#mesh76-geometry.berenice-head_bracket1/berenice-head_bracket/mesh76/mesh76-geometry#mesh76-geometry_1.material_0_0",
+                    "berenice-head_bracket1/berenice-head_bracket/mesh76/mesh76-geometry#mesh76-geometry.berenice-head_bracket1/berenice-head_bracket/mesh76/mesh76-geometry#mesh76-geometry_2",
+                    "berenice-head_bracket1/berenice-head_bracket/mesh76/mesh76-geometry#mesh76-geometry.berenice-head_bracket1/berenice-head_bracket/mesh76/mesh76-geometry#mesh76-geometry_2.material_0_0"
+                ]
+            },
+            "export method": 1,
+            "DecomposeMeshes": true,
+            "PhysicsMaterialSlots": {
+                "Slots": [
+                    {
+                        "Name": "material_0_0"
+                    }
+                ]
+            }
+        }
+    ]
+}
